@@ -30,7 +30,7 @@ cd Prediction-of-Wine-Quality-using-Machine-Learning
 Ensure you have Python 3.7 or higher installed.
 Install the required Python packages by running:
 ```bash
-   pip3 install -r requirements.txt  
+pip3 install -r requirements.txt  
 ```
 ### Running the Script
 ```bash  
